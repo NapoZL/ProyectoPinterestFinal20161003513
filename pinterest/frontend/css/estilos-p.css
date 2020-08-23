@@ -1,0 +1,36 @@
+
+
+.logo{
+    width: 45px;
+    margin-top: 16px;
+}
+
+.btn-navar{
+    border-radius: 25px;
+    margin-right: 10px;
+    border-color: white;
+    border-style: none;
+}
+
+.id{
+    color: #000;
+}
+
+.search{
+    border-radius: 30px;
+    border-color: white;
+}
+
+#perfil-user{
+    text-align: center;
+}
+
+#nPost{
+    text-align: right;
+}
+
+#nPost2{
+    border-color: white;
+    border: none;
+    font-size: 28px;
+}

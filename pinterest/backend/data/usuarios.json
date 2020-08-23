@@ -1,0 +1,20 @@
+[
+  {
+    "codigoUsuario": 1,
+    "nombre": "Usuario",
+    "apellido": "Normal",
+    "correo": "user@gmail.com",
+    "contrasena": "bcdcb29ed2aab16d48c11485264df665e906bdd9",
+    "genero": "M",
+    "siguiendo": [1,2]
+  },
+  {
+    "codigoUsuario": 2,
+    "nombre": "UsuarioPro",
+    "apellido": "Normal",
+    "correo": "userpro@gmail.com",
+    "contrasena": "bcdcb29ed2aab16d48c11485264df665e906bdd9",
+    "genero": "F",
+    "siguiendo": [1,2]
+  }
+]
